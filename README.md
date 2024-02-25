@@ -1,2 +1,2 @@
 # Team Chikken
-The Tekxit development team
+The Tekxit development documentation repository
